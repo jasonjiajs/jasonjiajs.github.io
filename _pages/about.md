@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 news: false  # includes a list of news items
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT. I studied Economics at the London School of Economic from 2018-2021 before moving to Chicago Booth to work as a Research Professional from 2021-2023. 
+I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT. I studied Economics at the London School of Economic from 2018-2021 before moving to Chicago Booth to work as a Research Professional from 2021-2023.
 
 I am an aspiring data scientist passionate about leveraging machine learning to improve marketing decisions and better connect businesses with customers.
 
