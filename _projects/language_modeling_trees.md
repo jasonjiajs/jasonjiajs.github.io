@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Language Modeling with Trees
+description: Using tree-based methods such as XGBoost, Random Forest, CART and OCT for next character prediction
+img: assets/img/next_language_modeling_cover.jpeg
+redirect: https://github.com/jasonjiajs/15.095_ml_under_a_modern_optimization_lens
+importance: 5
 category: MIT (2023-2024)
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

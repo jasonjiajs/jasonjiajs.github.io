@@ -2,7 +2,7 @@
 layout: page
 title: Conference Calls
 description: A processing pipeline to download over 500k conference calls from Thomson One (Refinitiv) and identify paragraphs containing keywords related to hurdle rates.
-img: assets/img/7.jpg
+img: assets/img/conference_calls_cover.jpeg
 redirect: https://github.com/jasonjiajs/conference_call_code
 importance: 2
 category: Chicago Booth (2021-2023)

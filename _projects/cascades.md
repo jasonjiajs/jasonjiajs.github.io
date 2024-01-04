@@ -2,7 +2,7 @@
 layout: page
 title: Cascades
 description: A 2-player board game played on Linux terminal. It is a generalization of Connect-Four, with a triangular board and a new "Earthquake" ability that shakes up the board. This is the final project in CMSC 15200 (Introduction to Computer Science II).
-img: assets/img/7.jpg
+img: assets/img/cascades_cover.jpeg
 redirect: https://github.com/jasonjiajs/CMSC-15200
 importance: 4
 category: Chicago Booth (2021-2023)

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Greedier
-description: A greedy algorithm that seeks to find the optimal sequence of rides through a theme park, given a set of constraints. Augmented with partial brute force, this algorithm produced outputs that ranked 2nd / 42 teams in CMSC 27200 (Theory of Algorithms).
-img: assets/img/greedier_cover.jpg
-redirect: https://github.com/jasonjiajs/CMSC_27200_Project
+title: Just-in-Time
+description: Using tree-based methods such as XGBoost, Random Forest, CART and OCT for next character prediction
+img: assets/img/next_language_modeling_cover.jpeg
+redirect: https://github.com/jasonjiajs/15.095_ml_under_a_modern_optimization_lens
 importance: 3
-category: Chicago Booth (2021-2023)
+category: MIT (2023-2024)
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Greedier
-description: A greedy algorithm that seeks to find the optimal sequence of rides through a theme park, given a set of constraints. Augmented with partial brute force, this algorithm produced outputs that ranked 2nd / 42 teams in CMSC 27200 (Theory of Algorithms).
-img: assets/img/greedier_cover.jpg
-redirect: https://github.com/jasonjiajs/CMSC_27200_Project
-importance: 3
-category: Chicago Booth (2021-2023)
+title: Reinforcement Learning
+description: TBC
+img: assets/img/ai_email_assistant_cover.png
+importance: 1
+category: MIT (2023-2024)
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

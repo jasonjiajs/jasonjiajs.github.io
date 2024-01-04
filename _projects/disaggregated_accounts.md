@@ -2,9 +2,9 @@
 layout: page
 title: Disaggregated Accounts
 description: A website with interactive Tableau maps that visualize spending destinations and revenue sources for disaggregated sets of Denmark consumers and producers. This website hosts data from joint work by Asger Andersen, Emil Toft Hansen, Kilian Huber, Niels Johannesen and Ludwig Straub (2022).
-img: assets/img/7.jpg
+img: assets/img/disaggregated_accounts_cover.jpg
 redirect: https://www.disaggregatedaccounts.com/
-importance: 1
+importance: 2
 category: Chicago Booth (2021-2023)
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: 'Inflation under FIRE: Deviations and Explanations'
 description: A paper that reconciles seemingly contradictory conclusions from empirical evidence on deviations of inflation expectations from the Full-Information Rational Expectations (FIRE) hypothesis, based on the methodology of Angeletos, Huo and Sastry (2020).
-img: assets/img/7.jpg
+img: assets/img/inflation_under_fire_cover.jpeg
 redirect: https://rationale.lse.ac.uk/articles/35
 importance: 1
 category: LSE (2018-2021)
