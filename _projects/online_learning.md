@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: Chicago Booth (2021-2023)
+title: Online Learning  
+description: A list of online programs and courses taken for personal learning.
+img: assets/img/7.jpg
+redirect: https://github.com/jasonjiajs/online_learning
+importance: 1
+category: Personal
 ---
 
 Every project has a beautiful feature showcase page.
