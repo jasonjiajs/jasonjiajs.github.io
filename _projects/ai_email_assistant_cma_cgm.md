@@ -107,4 +107,4 @@ That’s why with full support from the CMA CGM team, we made a strategic pivot 
 
 ### Conclusion
 
-We believe that the AI-powered email assistant is a tool packed full of amazing features that CMA CGM's customer agents will love to use.
+We believe the AI-powered email assistant is a tool packed full of amazing features, that CMA CGM's customer agents will love to use.
