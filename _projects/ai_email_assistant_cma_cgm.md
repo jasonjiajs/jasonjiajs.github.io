@@ -105,6 +105,6 @@ That’s why with full support from the CMA CGM team, we made a strategic pivot 
     Quantitative and strategic impacts
 </div>
 
-### Conclusion
+## Conclusion
 
 We believe the AI-powered email assistant is a tool packed full of amazing features, that CMA CGM's customer agents will love to use.
