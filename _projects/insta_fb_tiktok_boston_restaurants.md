@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Social media marketing
+title: Instagram vs Facebook vs TikTok for Boston Restaurants
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/insta_fb_tiktok_boston_restaurants_cover.jpeg
+redirect: https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants
 importance: 2
 category: MIT (2023-2024)
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.

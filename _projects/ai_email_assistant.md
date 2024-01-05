@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Email Assistant
+title: AI-Powered Email Assistant for CMA CGM
 description: Building CMA CGM's AI-powered email assistant
 img: assets/img/ai_email_assistant_cover.png
 importance: 1

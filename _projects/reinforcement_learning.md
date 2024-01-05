@@ -3,9 +3,8 @@ layout: page
 title: Reinforcement Learning
 description: TBC
 img: assets/img/ai_email_assistant_cover.png
-importance: 1
+importance: 3
 category: MIT (2023-2024)
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

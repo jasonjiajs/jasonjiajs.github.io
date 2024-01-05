@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Language Modeling with Trees
-description: Using tree-based methods such as XGBoost, Random Forest, CART and OCT for next character prediction
+description: Tree-based methods such as XGBoost, Random Forest, CART and OCT can sometimes outperform neural networks on next character prediction while offering interpretability.
 img: assets/img/next_language_modeling_cover.jpeg
 redirect: https://github.com/jasonjiajs/language-modeling-with-trees
 importance: 5
