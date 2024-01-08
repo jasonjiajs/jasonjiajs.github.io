@@ -22,4 +22,4 @@ I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT. I studied Ec
 
 I am an aspiring data scientist passionate about leveraging machine learning to improve marketing decisions and better connect businesses with customers.
 
-My email is [jasonjia@mit.edu](mailto:jasonjia@mit.edu) and I regularly use [Linkedin](https://www.linkedin.com/in/jasonjiajs/). Let's connect!
+My email is [jasonjia@mit.edu](mailto:jasonjia@mit.edu) and I'm active on both [Linkedin](https://www.linkedin.com/in/jasonjiajs/) and [GitHub](https://github.com/jasonjiajs/). Let's connect!
