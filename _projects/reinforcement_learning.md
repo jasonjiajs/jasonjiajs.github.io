@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Reinforcement Learning
-description: TBC
-img: assets/img/ai_email_assistant_cover.png
-importance: 3
+description: WIP
+img: 
+redirect: https://github.com/jasonjiajs/
+importance: 7
 category: MIT (2023-2024)
 ---
 

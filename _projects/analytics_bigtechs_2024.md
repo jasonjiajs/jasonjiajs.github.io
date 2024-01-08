@@ -3,12 +3,19 @@ layout: page
 title: Analytics for BigTechs in 2023-2024
 description: A closer look at how the biggest tech players are using analytics to advance their key priorities.
 img: assets/img/analytics_bigtechs_2024_cover.jpeg
-importance: 6
+importance: 7
 category: MIT (2023-2024)
 related_publications: 
 ---
 
-Jason Jia, Minnie Arunaramwong, Dongming Shen, Maxime Wolf, Tim Zhou, Kevin Sheng
+Project Report, MIT 15.681 - From Analytics to Action <br>
+Team Members:
+[Jason Jia](https://www.linkedin.com/in/jasonjiajs/),
+[Minnie Arunaramwong](https://www.linkedin.com/in/minnie-arunaramwong/),
+[Dongming Shen](https://www.linkedin.com/in/dongmingshen/),
+[Maxime Wolf](https://www.linkedin.com/in/maxime-wolf/),
+[Tim Zhou](https://www.linkedin.com/in/dingyi-zhou/),
+[Kevin Sheng](https://www.linkedin.com/in/kaiyuan-sheng/)
 
 ### Introduction
 
