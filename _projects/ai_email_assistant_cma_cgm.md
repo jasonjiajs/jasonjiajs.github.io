@@ -3,8 +3,8 @@ layout: page
 title: AI-Powered Email Assistant for CMA CGM
 description: We built CMA CGM's AI-powered email assistant that generates recommended replies for over 100k weekly customer emails.
 img: assets/img/ai_email_assistant_cma_cgm_cover.png
-importance: 1
-category: MIT (2023-2024)
+importance: 3
+category: Highlights
 ---
 
 Project Report, MIT 15.572 - Analytics Lab <br>

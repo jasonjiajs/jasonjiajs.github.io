@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A growing collection of projects I'm excited about!
 nav: true
 nav_order: 3
-display_categories: [MIT (2023-2024), Chicago Booth (2021-2023), LSE (2018-2021), Personal]
+display_categories: [Highlights, MIT (2023-2024), Chicago Booth (2021-2023), LSE (2018-2021), Personal]
 horizontal: false
 ---
 
